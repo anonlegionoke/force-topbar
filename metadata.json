@@ -3,6 +3,6 @@
   "name": "Force Top Bar",
   "description": "Keep top bar visible even in fullscreen",
   "shell-version": ["45", "46", "47", "48", "49"],
-  "type": "module"
+  "url": "https://github.com/anonlegionoke/force-topbar"
 }
 
