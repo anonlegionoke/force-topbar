@@ -8,16 +8,6 @@ A GNOME Shell extension that keeps the top bar (panel) visible even when applica
 - Works with all GNOME Shell 45+ versions
 - Clean enable/disable without leaving side effects
 
-## Compatibility
-
-| GNOME Shell | Status |
-|-------------|--------|
-| 45          | ✅     |
-| 46          | ✅     |
-| 47          | ✅     |
-| 48          | ✅     |
-| 49          | ✅     |
-
 ## Installation
 
 ### Manual Installation
