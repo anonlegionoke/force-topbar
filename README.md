@@ -1,5 +1,7 @@
 # Force Top Bar
 
+<a href="https://extensions.gnome.org/extension/9187/force-top-bar"><img src="https://raw.githubusercontent.com/andyholmes/gnome-shell-extensions-badge/master/get-it-on-ego.svg" height="128" alt="Get it on GNOME Shell Extensions"></a>
+
 A GNOME Shell extension that keeps the top bar (panel) visible even when applications are in fullscreen mode.
 
 ## Features
@@ -14,7 +16,7 @@ A GNOME Shell extension that keeps the top bar (panel) visible even when applica
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/force-topbar.git
+   git clone https://github.com/anonlegionoke/force-topbar.git
    ```
 
 2. Copy to GNOME Shell extensions directory:
