@@ -2,7 +2,13 @@
   "uuid": "force-topbar@local",
   "name": "Force Top Bar",
   "description": "Keep top bar visible even in fullscreen",
-  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
   "type": "module"
 }
-
